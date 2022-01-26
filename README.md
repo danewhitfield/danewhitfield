@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @danewhitfield
-- 👀 I’m interested in coding JavaScript
-- 🌱 I’m currently trying to improve my coding skills
+- 👀 I’m interested in coding in JavaScript
+- 🌱 I’m currently working on improving my coding skills
