@@ -4,7 +4,7 @@
 
 - [x] 👋 Hi, I’m @danewhitfield
 - [x] 💻 I currently use: REACT | NODE.JS | PSQL | EXPRESS | JEST
-- [] 🌱 I’m working on improving my development skills.
+- [ ] 🌱 I’m working on improving my development skills.
 
 My Skills: REACT | JS | EXPRESS | POSTGRES | AXIOS | NODE.JS | JEST | SUPERTEST | HTML | CSS
 
