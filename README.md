@@ -9,3 +9,9 @@
 My Skills: REACT | JS | EXPRESS | POSTGRES | AXIOS | NODE.JS | JEST | SUPERTEST | HTML | CSS
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danewhitfield&show_icons=true&theme=radical)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/danewhitfield)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danewhitfield)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=danewhitfield)  
