@@ -1,5 +1,5 @@
 <div align=center>
-  <img src='https://media-exp1.licdn.com/dms/image/C4E16AQHlOm5tqjFNoA/profile-displaybackgroundimage-shrink_200_800/0/1641643823987?e=1653523200&v=beta&t=Gi5v2iFN5WdjK2T5wg1K2pLtr1G9yoUC2zl1b4iGIsM'/>
+  <img src='[https://media-exp1.licdn.com/dms/image/C4E16AQHlOm5tqjFNoA/profile-displaybackgroundimage-shrink_200_800/0/1641643823987?e=1653523200&v=beta&t=Gi5v2iFN5WdjK2T5wg1K2pLtr1G9yoUC2zl1b4iGIsM](https://studio.youtube.com/channel/UCDPdfgDfPjl0XhU2N_9AIDg/editing/images)'/>
 <h3>Dane Joel Whitfield <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h3>
   <h4>Junior Full Stack Developer</h4>
 
