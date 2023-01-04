@@ -1,16 +1,25 @@
 <div align=center>
   <!-- <img src='https://studio.youtube.com/channel/UCDPdfgDfPjl0XhU2N_9AIDg/editing/images'/> -->
-<h3>Dane Joel Whitfield <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h3>
-  <h4>Junior Full Stack Developer</h4>
+<h1>Dane Joel Whitfield <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+  <h3>Software Engineer</h3>
+  
+  [Check out my portfolio](https://www.danewhitfield.com)
 
+<br>
+  
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Junior+Full+Stack+Developer;I+Think?;Maybe...;DS%20|%20Algorithms%20|%20OOP%20;Frontend%20|%20REACT;Backend%20|%20NODE.JS%20;TDD%20|%20JEST&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=React%20|%20React+Native;JavaScript%20|%20TypeScript;Frontend%20|%20Backend;TDD%20|%20AGILE&center=true&width=500&height=50"></a>
 </p>
+  
+<br>
+  
+  <h3>I don't like nature, it has too many bugs.</h3>
+  
+<br>
 
-- [x] 👋 Hi, I’m @danewhitfield
-- [x] 👨‍👦 I am a father to an amazing 6yo - the epitome for my creativity!
-- [x] 💻 I currently use: REACT | NODE.JS | PSQL | EXPRESS | JEST
-- [ ] 🌱 I’m working on improving my development skills.
+- [x] 💪🏼 I have over 100 unfinished projects. But I have 6 solid projects that are production ready.
+- [x] 💻 Tech Stack: React/React Native | Node.js | Postgres | Express | Jest | Cypress
+- [ ] 🌱 I’m not stopping until Musk names his private jet after me.
 
 ---
   
