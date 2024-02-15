@@ -1,4 +1,4 @@
-<div align=center>
+<div >
   <!-- <img src='https://studio.youtube.com/channel/UCDPdfgDfPjl0XhU2N_9AIDg/editing/images'/> -->
 <h1>Dane Joel Whitfield <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
   <h3>Software Engineer</h3>
@@ -12,14 +12,9 @@
 </p>
   
 <br>
-  
-  <h3>I don't like nature, it has too many bugs.</h3>
-  
-<br>
 
-- [x] 💪🏼 I have over 100 unfinished projects. But I have 6 solid projects that are production ready.
-- [x] 💻 Tech Stack: React/React Native | Node.js | Postgres | Express | Jest | Cypress
-- [ ] 🌱 I’m not stopping until Musk names his private jet after me.
+- [x] 💪🏼 I have taken 4 products to market.
+- [x] 💻 React/React Native | Node.js | Express | Jest | Prisma | Python
 
 ---
   
@@ -68,14 +63,6 @@
 **IDEs:**
 <br>
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
-
-<p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=danewhitfield&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=danewhitfield&theme=gruvbox&hide_border=true" />
-</p>
-<br>
-
-![danewhitfield' Activity Graph](https://activity-graph.herokuapp.com/graph?username=danewhitfield&custom_title=Dane%20Whitfield's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
 
   ----------
   
